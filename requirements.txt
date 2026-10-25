@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+pypdf
+python-docx
+python-pptx
+openpyxl
+beautifulsoup4
+sentence-transformers
+chromadb
+python-dotenv
+ipykernel

@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Generated databases (rebuilt by running the notebook)
+notebook/data/vector_store/
+notebook/chroma_db/
+
+# Private / placeholder files that should not be published
+notebook/data/CLAUDE_1.md
+notebook/data/Book2.xlsx
+
+# Editor settings
+.vscode/

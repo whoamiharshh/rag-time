@@ -1,0 +1,29 @@
+# --- LangChain ---
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# --- Loading files (txt, pdf, docx, html, pptx, xlsx) ---
+pypdf
+pymupdf
+python-docx
+python-pptx
+openpyxl
+beautifulsoup4
+unstructured
+
+# --- Embeddings and vector database ---
+sentence-transformers
+chromadb
+faiss-cpu
+numpy
+
+# --- Data tools ---
+pandas
+xlrd
+
+# --- Environment and notebook ---
+python-dotenv
+ipykernel
